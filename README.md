@@ -1,5 +1,9 @@
 Lab.Common Ansible Collection
 =============================
+Collection contents
+-------------------
+- [Common](https://github.com/suppaduppax/ac_lab_common/)
+
 Installation
 ------------
 Install as a submodule into your ansible project's collections directory:
